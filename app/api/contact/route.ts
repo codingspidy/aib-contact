@@ -15,7 +15,7 @@ export async function POST(request: Request) {
   const res = await request.json();
   const mailData = {
     from: "myaibbot@gmail.com",
-    to: "info@aibbusinessmen.com",
+    to: "info@aibusinessmen.com",
     subject: `Message From ${res.firstName}`,
     text: res.message,
     html: `<div>
