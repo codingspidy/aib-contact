@@ -42,12 +42,12 @@ const Header: NextComponentType = () => {
                             </div>
                             <ul className="lg:flex hidden items-center gap-x-4 text-primary text-sm">
                                 <li>
-                                    <Link className="text-secondary pl-[2px] pr-1 inline-block cursor-pointer" href="/">
+                                    <Link className="text-secondary pl-[2px] pr-1 inline-block cursor-pointer" href="https://aibusinessmen.com">
                                         Home
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link className="px-1 inline-block cursor-pointer" href="/about">
+                                    <Link className="px-1 inline-block cursor-pointer" href="https://aibusinessmen.com/about">
                                         About
                                     </Link>
                                 </li>
@@ -60,7 +60,7 @@ const Header: NextComponentType = () => {
                                         style={{ minWidth: "12rem" }}
                                     >
                                         <Link
-                                            href="/services/business-information-services"
+                                            href="https://aibusinessmen.com/services/business-information-services"
                                             className={
                                                 "text-base py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-slate-700"
                                             }
@@ -69,7 +69,7 @@ const Header: NextComponentType = () => {
                                             Business Information Services
                                         </Link>
                                         <Link
-                                            href="/services/aib-council-of-arbitration"
+                                            href="https://aibusinessmen.com/services/aib-council-of-arbitration"
                                             className={
                                                 "text-base py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-slate-700"
                                             }
@@ -78,7 +78,7 @@ const Header: NextComponentType = () => {
                                             AIB Council of Arbitration
                                         </Link>
                                         <Link
-                                            href="/services/investment-matchmaking"
+                                            href="https://aibusinessmen.com/services/investment-matchmaking"
                                             className={
                                                 "text-base py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-slate-700"
                                             }
@@ -87,7 +87,7 @@ const Header: NextComponentType = () => {
                                             Investment Matchmaking
                                         </Link>
                                         <Link
-                                            href="/services/venue-booking"
+                                            href="https://aibusinessmen.com/services/venue-booking"
                                             className={
                                                 "text-base py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-slate-700"
                                             }
@@ -96,7 +96,7 @@ const Header: NextComponentType = () => {
                                             Venue Booking
                                         </Link>
                                         <Link
-                                            href="/services/visa-recommendation"
+                                            href="https://aibusinessmen.com/services/visa-recommendation"
                                             className={
                                                 "text-base py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-slate-700"
                                             }
@@ -359,7 +359,7 @@ const Header: NextComponentType = () => {
                                         style={{ minWidth: "12rem" }}
                                     >
                                         <Link
-                                            href="/international/international-business-news"
+                                            href="https://aibusinessmen.com/international/international-business-news"
                                             className={
                                                 "text-base py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-slate-700"
                                             }
@@ -378,7 +378,7 @@ const Header: NextComponentType = () => {
                                         style={{ minWidth: "12rem" }}
                                     >
                                         <Link
-                                            href="/membership"
+                                            href="/"
                                             className={
                                                 "text-base py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-slate-700"
                                             }
@@ -387,7 +387,7 @@ const Header: NextComponentType = () => {
                                             AIB Membership
                                         </Link>
                                         <Link
-                                            href="/membership/charges"
+                                            href="/charges"
                                             className={
                                                 "text-base py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-slate-700"
                                             }
@@ -396,7 +396,7 @@ const Header: NextComponentType = () => {
                                             Membership Charges
                                         </Link>
                                         <Link
-                                            href="/membership/forms"
+                                            href="/form"
                                             className={
                                                 "text-base py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-slate-700"
                                             }
@@ -415,7 +415,7 @@ const Header: NextComponentType = () => {
                                         style={{ minWidth: "12rem" }}
                                     >
                                         <Link
-                                            href="/publication/newsletter"
+                                            href="https://aibusinessmen.com/publication/newsletter"
                                             className={
                                                 "text-base py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-slate-700"
                                             }
@@ -426,7 +426,7 @@ const Header: NextComponentType = () => {
                                     </div>
                                 </li>
                                 <li>
-                                    <Link className="px-1 inline-block cursor-pointer" href="/contact">
+                                    <Link className="px-1 inline-block cursor-pointer" href="https://contact.aibusinessmen.com">
                                         Contact
                                     </Link>
                                 </li>
