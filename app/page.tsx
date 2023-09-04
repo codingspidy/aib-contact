@@ -122,13 +122,13 @@ Chennai - 600014</p>
                                                         <p>Phone - +91 9671658857</p>
                                                     </td>
                                                     <td className="whitespace-nowrap border-r px-6 py-4 ">
-                                                        <h5 className="text-[18px] font-[500]">Regional Director</h5>
+                                                        <h5 className="text-[18px] font-[500]">Regional Director (Hyderabad)</h5>
                                                         <p>Zhenis Telemissov</p>
                                                         <p className="mt-4">Email – zhenis@aibusinessmen.com</p>
                                                         <p>Phone - +91 9059458075</p>
                                                     </td>
                                                     <td className="whitespace-nowrap border-r px-6 py-4 ">
-                                                        <h5 className="text-[18px] font-[500]">Regional Director</h5>
+                                                        <h5 className="text-[18px] font-[500]">Regional Director (Kolkata)</h5>
                                                         <p>Mohammad Yaseen Malik</p>
                                                         <p className="mt-4">Email – mdyaseen@aibusinessmen.com</p>
                                                         <p>Phone: +91 9599032139</p>
@@ -136,19 +136,19 @@ Chennai - 600014</p>
                                                 </tr>
                                                 <tr className="border-b ">
                                                     <td className="whitespace-nowrap border-r px-6 py-4 ">
-                                                        <h5 className="text-[18px] font-[500]">Regional Director</h5>
+                                                        <h5 className="text-[18px] font-[500]">Regional Director (Kerala)</h5>
                                                         <p>Muhammed Saheer</p>
                                                         <p className="mt-4">Email – saheer@aibusinessmen.com</p>
                                                         <p>Phone: +91 959903213</p>
                                                     </td>
                                                     <td className="whitespace-nowrap border-r px-6 py-4 ">
-                                                        <h5 className="text-[18px] font-[500]">Regional Director</h5>
+                                                        <h5 className="text-[18px] font-[500]">Regional Director (Chennai)</h5>
                                                         <p>Aadil Aiman S</p>
                                                         <p className="mt-4">Email – aadilaiman@aibusinessmen.com</p>
                                                         <p>Phone: +91 9566898486</p>
                                                     </td>
                                                     <td className="whitespace-nowrap border-r px-6 py-4 ">
-                                                        <h5 className="text-[18px] font-[500]">Regional Director</h5>
+                                                        <h5 className="text-[18px] font-[500]">Regional Director (Pune)</h5>
                                                         <p>Suhail Akram</p>
                                                         <p className="mt-4">Email – akram@aibusinessmen.com</p>
                                                         <p>Phone:  +91 9911377178</p>
@@ -156,7 +156,7 @@ Chennai - 600014</p>
                                                 </tr>
                                                 <tr className="border-b">
                                                     <td className="whitespace-nowrap border-r px-6 py-4 ">
-                                                        <h5 className="text-[18px] font-[500]">Regional Director</h5>
+                                                        <h5 className="text-[18px] font-[500]">Regional Director (Bangalore)</h5>
                                                         <p>Mohammad Abdul Basith</p>
                                                         <p className="mt-4">Email – mabdulbadith@aibusinessmen.com</p>
                                                         <p>Phone: +91 9972065556</p>
