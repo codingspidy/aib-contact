@@ -378,7 +378,7 @@ const Header: NextComponentType = () => {
                                         style={{ minWidth: "12rem" }}
                                     >
                                         <Link
-                                            href="/"
+                                            href="https://membership.aibusinessmen.com"
                                             className={
                                                 "text-base py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-slate-700"
                                             }
@@ -387,7 +387,7 @@ const Header: NextComponentType = () => {
                                             AIB Membership
                                         </Link>
                                         <Link
-                                            href="/charges"
+                                            href="https://membership.aibusinessmen.com/charges"
                                             className={
                                                 "text-base py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-slate-700"
                                             }
@@ -396,7 +396,7 @@ const Header: NextComponentType = () => {
                                             Membership Charges
                                         </Link>
                                         <Link
-                                            href="/form"
+                                            href="https://membership.aibusinessmen.com/form"
                                             className={
                                                 "text-base py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-slate-700"
                                             }
