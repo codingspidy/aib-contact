@@ -73,7 +73,7 @@ const Contact: NextPage = () => {
                                 <div className='max-w-[350px]'>
                                     <h4 className="text-[18px] font-[500]">Noida Office</h4>
                                     <p>SD-154, Sector-45, Noida -201303, Uttar Pradesh</p>
-                                    <p>Contact: +91 9999890071</p>
+                                    <p>Contact: +91 9671658857</p>
                                     <p>Email: info@aibusinessmen.com</p>
                                 </div>
                                 <div className='max-w-[350px]'>
