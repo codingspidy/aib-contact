@@ -56,12 +56,22 @@ const Contact: NextPage = () => {
                             </div>
 
                             <ContactForm />
+                            Association of International Businessmen
+                                    Registered Office: 331-B, Nai Basti, Okhla, Jamia Nagar, Delhi,
+                                    New Delhi, Delhi, India, 110025
                         </div>
                         <div className='mt-20'>
                             <h3 className='text-primary md:text-4xl text-3xl font-semibold mb-1'>Our Offices</h3>
                             <div className='flex flex-wrap gap-10 mt-6'>
+                            <div className='max-w-[350px]'>
+                                    <h4 className="text-[18px] font-[500]">Registered Office</h4>
+                                    <p>331-B, Nai Basti, Okhla, Jamia Nagar, Delhi,
+                                    New Delhi, Delhi, India, 110025</p>
+                                    <p>Contact: +91 9999890071</p>
+                                    <p>Email: info@aibusinessmen.com</p>
+                                </div>
                                 <div className='max-w-[350px]'>
-                                    <h4 className="text-[18px] font-[500]">Head Office</h4>
+                                    <h4 className="text-[18px] font-[500]">Noida Office</h4>
                                     <p>SD-154, Sector-45, Noida -201303, Uttar Pradesh</p>
                                     <p>Contact: +91 9999890071</p>
                                     <p>Email: info@aibusinessmen.com</p>
@@ -87,9 +97,7 @@ const Contact: NextPage = () => {
                                 </div>
                                 <div className='max-w-[350px]'>
                                     <h4 className="text-[18px] font-[500]">Mumbai Office</h4>
-                                    <p>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p>
-                                    <p>Contact: XXXXXXXXXX</p>
-                                    <p>Email: XXXXXXXXXXXX</p>
+                                    <p>COMING SOON..</p>
                                 </div>
                                 <div className='max-w-[350px]'>
                                     <h4 className="text-[18px] font-[500]">Pune Office</h4>
